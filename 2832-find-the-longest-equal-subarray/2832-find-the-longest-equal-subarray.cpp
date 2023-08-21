@@ -1,22 +1,19 @@
 class Solution {
 public:
     int longestEqualSubarray(vector<int>& nums, int k) {
-        int ans = 1;
-        unordered_map<int,vector<int>> indices;
         
-        for(int i=0;i<nums.size();i++)
-            indices[nums[i]].push_back(i);
-        
-        for(auto it : indices){
-            vector<int> ids = it.second;
-            int left = 0, right = 1;
+        unordered_map<int,int> freq;
 
-            for(int bal = k;right<ids.size();right++){
-                bal -= ids[right] - ids[right-1]-1;
-                if(bal < 0)
-                    bal += ids[++left] - ids[left-1]-1;
-            }
-            ans = max(ans,right-left);
+        int ans = 1;
+
+        int left= 0;
+
+        for(int right=0;right<nums.size();right++){
+            
+            ans = max(ans,++freq[nums[right]]);
+
+            if(right - left -ans + 1 > k) // as we can remove max k elements
+                --freq[nums[left++]];
         }
 
         return ans;
