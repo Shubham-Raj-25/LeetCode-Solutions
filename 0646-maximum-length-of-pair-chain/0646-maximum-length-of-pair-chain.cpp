@@ -1,26 +1,26 @@
 class Solution {
 public:
-    int func(int idx, int last, vector<vector<int>>& pairs,  vector<vector<int>>& dp){
-        if(idx==pairs.size())
-            return 0;
-        
-        if(dp[idx][last+1]!=-1)
-            return dp[idx][last+1];
+    int findLongestChain(vector<vector<int>>& pairs) {
+     // greedy try
+     sort(pairs.begin(),pairs.end(), cmp);
+     
+     for(auto it:pairs)
+        cout << it[0] << " " << it[1] << endl;
 
-        int pick = 0, notPick = 0;
+     int curr = INT_MIN;
+     int ans = 0;
+     for(auto it: pairs){
+         if(it[0] > curr){
+             ans++;
+             curr = it[1];
+         }
+     }
 
-        if(last == -1 || pairs[last][1] < pairs[idx][0])
-            pick = 1 + func(idx+1,idx,pairs,dp);
-        
-        notPick = func(idx+1,last,pairs,dp);
-
-        return dp[idx][last+1] = max(pick,notPick);
+     return ans;
     }
 
-    int findLongestChain(vector<vector<int>>& pairs) {
-        sort(pairs.begin(),pairs.end());
-        int n = pairs.size();
-        vector<vector<int>>dp(n+1,vector<int>(n+2,-1));
-        return func(0,-1,pairs,dp);
+    private:
+    static bool cmp(vector<int>& a, vector<int>& b){
+        return a[1] < b[1];
     }
 };
