@@ -11,38 +11,23 @@ public:
 
 class Solution {
 public:
-    void dfs(Node* head, vector<int>& data){
-        if(!head)
-            return ;
-        
-        data.push_back(head->val);
-
-        if(head->child)
-            dfs(head->child,data);
-        if(head->next)
-            dfs(head->next,data);
-    }
-
     Node* flatten(Node* head) {
-        if(!head)
-            return head;
-        vector<int> data;
-        dfs(head,data);
-
-        Node* temp = new Node(data[0]);
-        Node* temp2 = temp;
-        temp -> child = NULL;
-        temp -> prev = NULL;
-
-        for(int i=1;i<data.size();i++){
-            Node* New = new Node(data[i]);
-            temp -> next = New;
-            New -> child = NULL;
-            New -> prev = temp;
-            New -> next = NULL;
-            temp = New;
+        // O(1) SPACE SOLUTION
+        for(Node* h = head; h; h = h->next){
+            if(h->child){
+                Node* nxt = h->next;
+                h->next = h->child;
+                h->next->prev = h;
+                h->child = NULL;
+                Node* temp = h->next;
+                while(temp->next)
+                    temp = temp->next;
+                temp -> next = nxt;
+                if(nxt)
+                    nxt ->prev = temp;
+            }
         }
 
-        return temp2;
+        return head;
     }
 };
