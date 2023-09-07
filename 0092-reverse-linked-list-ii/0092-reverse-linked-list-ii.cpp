@@ -1,25 +1,18 @@
 class Solution {
 public:
-    ListNode* reverseBetween(ListNode* head, int left, int right) {
-        // naieve way, O(n) space and two passes
-        if(!head)
-            return head;
-        vector<int> data;
-        ListNode* temp = head;
-        while(temp){
-            data.push_back(temp->val);
-            temp = temp->next;
-        }
-        reverse(data.begin()+left-1,data.begin()+right);
-        temp = head;
-        int idx = 0;
-        while(temp){
-            if(idx>=left-1 && idx<=right-1)
-                temp->val = data[idx];
-            temp=temp->next;
-            idx++;
-        }
-
-        return head;
-    }
+   ListNode* reverseBetween(ListNode* head, int m, int n) {
+       ListNode *dummy = new ListNode(0), *pre = dummy, *cur;
+       dummy -> next = head;
+       for (int i = 0; i < m - 1; i++) {
+           pre = pre -> next;
+       }
+       cur = pre -> next;
+       for (int i = 0; i < n - m; i++) {
+           ListNode* temp = pre -> next;
+           pre -> next = cur -> next;
+           cur -> next = cur -> next -> next;
+           pre -> next -> next = temp;
+       }
+       return dummy -> next;
+   }
 };
