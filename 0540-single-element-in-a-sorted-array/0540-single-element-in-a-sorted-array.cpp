@@ -1,18 +1,15 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        // brute force first then logn
-        if(nums.size()==1) return nums[0];
-        for(int i=0;i<nums.size();i++){
-            cout << nums[i] << endl;
-            if(i==0 && nums[i]!=nums[i+1])
-                 return nums[i];
-            else if(i==nums.size()-1 && nums[i]!=nums[i-1])
-                 return nums[i];
-            else if(nums[i]!=nums[i+1] && nums[i]!=nums[i-1])
-                 return nums[i];
+        int left = 0, right = nums.size() - 1;
+        while(left < right){
+            int mid = left + (right - left) / 2;
+            if((mid % 2 == 0 && nums[mid] == nums[mid + 1]) || (mid % 2 == 1 && nums[mid] == nums[mid - 1]))
+                left = mid + 1;
+            else
+                right = mid;
         }
-
-        return 69;
+        
+        return nums[left];
     }
 };
