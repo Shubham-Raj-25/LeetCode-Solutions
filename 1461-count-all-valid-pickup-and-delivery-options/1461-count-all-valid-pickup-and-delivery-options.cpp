@@ -1,25 +1,14 @@
 class Solution {
 public:
-    
-    int mod = 1e9+7;
-
-    long long factorial(int n){
-        if(n==1)
-            return 1;
-        
-        return (n%mod) * (factorial(n-1)%mod);
-    }
-
-    int oddProd(int n){
-        long long ans = 1, odd = 1;
-        for(int i=1;i<=n;i++){
-            ans = (ans%mod)*(odd%mod);
-            odd += 2;
-        }
-        return ans%mod;
-    }
-
     int countOrders(int n) {
-        return ((long long)oddProd(n)%mod)*((long long)factorial(n)%mod)%mod;
+        long long ans = 1;
+        int mod = 1e9+7;
+        // 2n slots, at each putting we have (2n)(2n-1)/2 numbers of valid ways
+        while(n>0){
+            ans = (ans%mod * 2*n * (2*n-1) / 2)%mod;
+            n--;
+        }
+
+        return ans%mod;
     }
 };
