@@ -1,26 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> groupThePeople(vector<int>& g) {
-        // O(n2) solution
-        
-        int n = g.size();
-        
+        // O(n) TC solution
+        map<int,vector<int>> mp;
         vector<vector<int>> ans;
-            
-        for(int size=1;size<=n;size++){
-            vector<int> temp;
-            for(int i=0;i<n;i++){
-                if(g[i]!=size) continue;
-                if(temp.size()==size){
-                    ans.push_back(temp);
-                    temp.clear();
-                }
-                temp.push_back(i);
+
+        for(int i=0;i<g.size();i++){
+
+            if(mp[g[i]].size()==g[i]){
+                ans.push_back(mp[g[i]]);
+                mp[g[i]].clear();
             }
-            if(temp.size()==size)
-                ans.push_back(temp); 
+            
+            mp[g[i]].push_back(i);
         }
 
+        for(auto it:mp)
+            if(it.second.size()!=0)
+                ans.push_back(it.second);
+        
         return ans;
     }
 };
