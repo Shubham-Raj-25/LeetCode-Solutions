@@ -12,11 +12,11 @@ public:
         if(cache.find({row,glass})!=cache.end())
             return cache[{row,glass}];
 
-        double left = max(0.0,func(poured,row-1,glass-1)-1);
+        double left = max(0.0,(func(poured,row-1,glass-1)-1)/2);
 
-        double right = max(0.0,func(poured,row-1,glass)-1);
+        double right = max(0.0,(func(poured,row-1,glass)-1)/2);
 
-        return cache[{row,glass}] = (left+right)/2;
+        return cache[{row,glass}] = left+right;
 
     }
 
