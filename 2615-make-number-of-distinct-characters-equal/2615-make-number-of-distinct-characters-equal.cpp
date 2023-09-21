@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void helper(unordered_map<char,int>& mp, int toAdd, int toRemove){
+    void helper(unordered_map<char,int>& mp, char toAdd, char toRemove){
         mp[toAdd]++;
         mp[toRemove]--;
         if(mp[toRemove]==0)
