@@ -1,24 +1,27 @@
 class Solution {
 public:
 
-    bool compare(string &a, string &b){
-        int m = a.length(), n = b.length();
-
-        if(abs(m-n) != 1)
+     bool isPred(string& a, string& b){
+        if(b.length()!=a.length()+1)
             return false;
-
-        int first = 0, sec = 0;
-        while(first < m){
-            if(a[first] == b[sec]){
-                first++;
-                sec++;
+        int i = 0, j = 0;
+        bool unequal = false;
+        while(i<a.length() && j<b.length()){
+            if(a[i]==b[j]){
+                i++;
+                j++;
             }
             else{
-                first++;
+                if(!unequal){
+                    j++;
+                    unequal = true;
+                }
+                else
+                    return false;
             }
         }
 
-        return(first == m && sec == n);
+        return true;
     }
 
 
@@ -31,7 +34,7 @@ public:
         
         // pick
         int pick = 0;
-        if(prev == -1 || compare(words[curr],words[prev]))
+        if(prev == -1 || isPred(words[prev],words[curr]))
             pick = 1+ func(curr+1,curr,len+1,words,mp);
         
         // notPick
