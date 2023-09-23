@@ -1,49 +1,51 @@
 class Solution {
 public:
 
-    bool isPred(string& a, string& b){
-        if(b.length()!=a.length()+1)
+    bool compare(string &a, string &b){
+        int m = a.length(), n = b.length();
+
+        if(abs(m-n) != 1)
             return false;
-        int i = 0, j = 0;
-        bool unequal = false;
-        while(i<a.length() && j<b.length()){
-            if(a[i]==b[j]){
-                i++;
-                j++;
+
+        int first = 0, sec = 0;
+        while(first < m){
+            if(a[first] == b[sec]){
+                first++;
+                sec++;
             }
             else{
-                if(!unequal){
-                    j++;
-                    unequal = true;
-                }
-                else
-                    return false;
+                first++;
             }
         }
 
-        return true;
+        return(first == m && sec == n);
     }
 
-     static bool compare(const string& a,const string& b){
-        return a.length() < b.length();
+
+    int func(int curr, int prev, int len, vector<string>& words, vector<vector<int>>& mp){
+        if(curr == words.size())
+            return 0;
+        
+        if(mp[curr][prev+1]!=-1)
+            return mp[curr][prev+1];
+        
+        // pick
+        int pick = 0;
+        if(prev == -1 || compare(words[curr],words[prev]))
+            pick = 1+ func(curr+1,curr,len+1,words,mp);
+        
+        // notPick
+        int notPick = func(curr+1,prev,len,words,mp);
+
+        return mp[curr][prev+1] = max(pick,notPick);
     }
 
     int longestStrChain(vector<string>& words) {
-        sort(words.begin(),words.end(),compare);
+        sort(words.begin(), words.end(), [](string &a, string &b) {
+            return a.length() < b.length();
+        });
         int n = words.size();
-
-        vector<int> dp(n,1);
-
-        int ans= 1;
-
-        for(int idx=0;idx<n;idx++){
-            for(int prev = 0; prev < n; prev++){
-                if(isPred(words[prev],words[idx]) && 1+dp[prev] > dp[idx])
-                    dp[idx] = 1 + dp[prev];
-            }
-            ans = max(ans,dp[idx]);
-        }
-
-        return ans;
+        vector<vector<int>> mp(n+1, vector<int>(n+1,-1));
+        return func(0,-1,0,words,mp);
     }
 };
