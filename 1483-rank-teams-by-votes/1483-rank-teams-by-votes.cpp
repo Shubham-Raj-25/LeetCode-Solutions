@@ -10,15 +10,15 @@ public:
             for(int i=0;i<n;i++)
                 ranks[vote[i]-'A'][i]++;
         
-        function<bool(const char&, const char&)> compare = [&](const char& x, const char& y){
+        // function<bool(const char&, const char&)> compare = [&](const char& x, const char& y){
 
-            for(int i=0;i<n;i++){
-                if(ranks[x-'A'][i] == ranks[y-'A'][i]) continue;
-                return ranks[x-'A'][i] > ranks[y-'A'][i];
-            }
+        //     for(int i=0;i<n;i++){
+        //         if(ranks[x-'A'][i] == ranks[y-'A'][i]) continue;
+        //         return ranks[x-'A'][i] > ranks[y-'A'][i];
+        //     }
 
-            return x < y;
-        };
+        //     return x < y;
+        // };
 
         sort(ans.begin(), ans.end(), [&](const char& x, const char& y) { return ranks[x - 'A'] > ranks[y - 'A'] || ranks[x - 'A'] == ranks[y - 'A'] && x < y; });
         return ans;
