@@ -1,11 +1,8 @@
 class Solution {
 public:
     bool isPowerOfFour(int n) {
-        long long prod = 1;
-        
-        while(prod<n)
-            prod *= 4;
-        
-        return prod == n;
+        if(n<=0) return false;
+        int power =  log10(n)/log10(4);
+        return pow(4,power) == n;
     }
 };
