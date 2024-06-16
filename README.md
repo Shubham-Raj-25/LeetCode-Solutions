@@ -6,6 +6,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1137-height-checker) |
@@ -37,6 +38,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
