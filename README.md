@@ -49,3 +49,11 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+# Binary Search
+|  |
+| ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
