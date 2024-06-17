@@ -37,6 +37,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 # Greedy
 |  |
 | ------- |
@@ -52,8 +53,10 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 # Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
