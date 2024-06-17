@@ -60,3 +60,23 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+# String
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0488-zuma-game) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0488-zuma-game) |
+# Stack
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0488-zuma-game) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0488-zuma-game) |
+# Memoization
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0488-zuma-game) |
