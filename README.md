@@ -8,6 +8,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0075-sort-colors](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
@@ -18,6 +19,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
@@ -38,11 +40,13 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 # Greedy
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
@@ -60,6 +64,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0853-most-profit-assigning-work](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 # String
 |  |
 | ------- |
