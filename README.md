@@ -55,6 +55,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0502-ipo](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Heap (Priority Queue)
@@ -118,15 +119,23 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
