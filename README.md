@@ -139,3 +139,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
