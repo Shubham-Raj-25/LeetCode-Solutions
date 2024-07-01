@@ -169,5 +169,10 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Array
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
