@@ -198,4 +198,24 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
+## Binary Search
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
+## Design
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
