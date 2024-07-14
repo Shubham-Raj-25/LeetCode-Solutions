@@ -190,6 +190,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 ## Linked List
@@ -236,10 +237,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -255,6 +258,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
