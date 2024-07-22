@@ -148,12 +148,14 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -221,6 +223,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Math
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [1642-water-bottles](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
