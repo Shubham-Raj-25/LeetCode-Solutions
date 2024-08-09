@@ -182,6 +182,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -243,6 +244,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+| [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -271,6 +273,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -322,6 +325,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
