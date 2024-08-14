@@ -184,6 +184,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -388,4 +389,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
