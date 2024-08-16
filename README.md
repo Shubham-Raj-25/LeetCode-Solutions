@@ -185,6 +185,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -218,6 +219,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
