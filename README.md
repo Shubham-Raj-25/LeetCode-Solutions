@@ -193,6 +193,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1063-best-sightseeing-pair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -214,6 +215,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1063-best-sightseeing-pair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
