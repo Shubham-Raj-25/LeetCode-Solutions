@@ -1,32 +1,25 @@
 class Solution {
 public:
-    map<pair<int,int>,int> dp;
-
-    int func(int curr, int n, int copy){
-        if(curr==n)
+    int func(int generated, int copied, int n){
+        if(n == 0)
             return 0;
-        if(curr > n || copy > n)
-            return 1e4;
         
-        if(dp.find({curr,copy})!=dp.end())
-            return dp[{curr,copy}];
-        
-        int COPY = 1e4 , PASTE = 1e4;
+        // either copy, or paste
+        int op1 = 1e6, op2 = 1e6;
 
-        // copy
-        if(curr!=copy) // no benefit copying the same length
-            COPY = 1+func(curr,n,curr);
-        
-        // paste
-        if(copy!=0)    // paste only when there's something to paste
-            PASTE = 1+func(curr+copy,n,copy);
+        // copying
+        if(generated > copied) 
+            op1 = 1 + func(generated,generated,n);
+        // pasting
+        if(n >= copied)
+            op2 = 1 + func(generated+copied,copied,n-copied);
 
-        return dp[{curr,copy}] = min(COPY,PASTE);
-    }   
+        return min(op1,op2);
 
+    }
     int minSteps(int n) {
-        if(n==1) return 0;
-
-        return func(1,n,0);
+        if(n == 1)
+            return 0;
+        return 1+func(1,1,n-1);
     }
 };
