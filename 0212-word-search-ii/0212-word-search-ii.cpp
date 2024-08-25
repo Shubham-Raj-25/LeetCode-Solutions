@@ -1,43 +1,37 @@
 class Solution {
 public:
-    // can be optimised via Trie
-    struct node{
-        char c;
-        int ends; // no of words ending at this character
-        string word; // word formed till this character
-        node *child[26];
+    struct TreiNode{
+        char ch;
+        int ends; // no of words ending at this node
+        TreiNode* child[26]; // adderesses of child nodes -> next character
+        string word; // if a word ends at this node then store it
     };
 
-    struct node *getNode(char c){
-        node *newNode = new node;
-        newNode->c = c;
+    TreiNode* getNewNode(char c){
+        TreiNode* newNode = new TreiNode;
+        newNode->ch = c;
         newNode->ends = 0;
+        for(int i=0;i<26;i++) newNode->child[i] = NULL;
         newNode->word = "";
-        
-        for(int i=0;i<26;i++)
-            newNode->child[i] = NULL;
-        
         return newNode;
-    };
+    }
 
-    node *root = getNode('/');
+    TreiNode* root = getNewNode('/');
 
-    void insert(string s){
-        node *curr = root;
-        int idx, i = 0;
-        while(s[i])
-        {
-            idx = s[i] - 'a';
-            if(curr->child[idx] == NULL)
-                curr->child[idx] = getNode(s[i]);
+    void insert(string word){
+        TreiNode* curr = root;
+
+        for(int i=0;i<word.length();i++){
+            int idx = word[i] - 'a';
+            if(curr->child[idx] ==  NULL)
+                curr->child[idx] = getNewNode(word[i]);
             curr = curr->child[idx];
-            i++;
         }
         curr->ends += 1;
-        curr->word = s;
-    };
+        curr->word = word;
+    }
 
-    void func(int i, int j, vector<vector<char>>& board, vector<string>& ans, node* curr){
+    void func(int i, int j, vector<vector<char>>& board, vector<string>& ans, TreiNode* curr){
         int idx = board[i][j] - 'a';
         if(board[i][j] == '@' || curr->child[idx] == NULL)
             return;
