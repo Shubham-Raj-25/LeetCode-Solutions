@@ -20,14 +20,14 @@ public:
 
 class Solution {
 public:
-    void func(Node* root, vector<int>& ans){
-        if(!root)
+    void func(Node* curr, vector<int>& ans){
+        if(!curr)
             return;
-
-        for(int i=0;i<root->children.size();i++)
-            func(root->children[i],ans);
         
-        ans.push_back(root->val);
+        for(auto child : curr->children)
+            func(child,ans);
+            
+        ans.push_back(curr->val);
     }
 
     vector<int> postorder(Node* root) {
