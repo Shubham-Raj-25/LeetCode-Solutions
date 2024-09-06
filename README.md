@@ -227,6 +227,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2502-sort-the-people](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1337-design-skiplist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1337-design-skiplist) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -334,6 +336,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
