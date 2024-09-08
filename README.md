@@ -265,6 +265,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1337-design-skiplist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1337-design-skiplist) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
