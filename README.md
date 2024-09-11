@@ -483,6 +483,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Trie
 |  |
 | ------- |
