@@ -227,6 +227,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2411-spiral-matrix-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -487,6 +488,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0476-number-complement](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Trie
 |  |
 | ------- |
@@ -495,4 +497,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
