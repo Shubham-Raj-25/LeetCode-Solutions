@@ -220,6 +220,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1962-single-threaded-cpu](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -271,6 +272,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1962-single-threaded-cpu](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2502-sort-the-people](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -448,6 +450,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1962-single-threaded-cpu](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2803-modify-graph-edge-weights](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
