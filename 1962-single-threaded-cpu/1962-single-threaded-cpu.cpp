@@ -1,35 +1,40 @@
 class Solution {
 public:
     vector<int> getOrder(vector<vector<int>>& tasks) {
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        vector<int> order;
+        
         for(int i=0;i<tasks.size();i++)
             tasks[i].push_back(i);
-        
+
         sort(tasks.begin(),tasks.end());
 
-        vector<int> ans;
+        long long curr_time = tasks[0][0];
+        int idx = 0;
 
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        while(idx < tasks.size() && tasks[idx][0] <= curr_time){
+            pq.push({tasks[idx][1],tasks[idx][2]});
+            idx++;
+        }
 
-        long long time = 0, idx = 0;
-
-        while(idx<tasks.size() || !pq.empty()){
-            if(pq.empty())
-                time = max(time,(long long)tasks[idx][0]);
+        while(pq.size()){
+            auto curr = pq.top();
+            pq.pop();
+            order.push_back(curr.second);
+            curr_time += curr.first;
             
-            while(idx<tasks.size() && time >= tasks[idx][0]){
+            if(pq.empty()){
+                if(idx < tasks.size() && (long long) tasks[idx][0] > curr_time)
+                    curr_time = tasks[idx][0];
+            }
+            
+            while(idx < tasks.size() && tasks[idx][0] <= curr_time){
                 pq.push({tasks[idx][1],tasks[idx][2]});
                 idx++;
             }
-
-            auto top = pq.top();
-            pq.pop();
-
-            ans.push_back(top.second);
-            time += (long long)top.first;
-
         }
 
-        return ans;
+        return order;
 
     }
 };
