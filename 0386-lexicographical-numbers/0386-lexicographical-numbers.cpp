@@ -1,15 +1,17 @@
 class Solution {
 public:
-    vector<int> lexicalOrder(int n) {
-        vector<int> res;
-        helper(1, n, res);
-        return res;
+    void dfs(int curr, int n,  vector<int>& ans){
+        if(curr > n)
+            return;
+        ans.push_back(curr);
+        for(int i=0;i<=9;i++)
+            dfs(curr*10+i,n,ans);
     }
-    
-    void helper(int target, int n, vector<int>& res) {
-        if (target > n) return;
-        res.push_back(target);
-        helper(target * 10, n, res);
-        if (target % 10 != 9) helper(target+1, n, res);
+
+    vector<int> lexicalOrder(int n) {
+        vector<int> ans;
+        for(int i=1;i<=9;i++)
+            dfs(i,n, ans);
+        return ans;
     }
 };
