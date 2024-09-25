@@ -258,6 +258,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -394,6 +395,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0179-largest-number) |
