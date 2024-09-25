@@ -247,6 +247,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -412,6 +413,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -504,6 +506,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
 |  |
@@ -559,6 +562,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Number Theory
