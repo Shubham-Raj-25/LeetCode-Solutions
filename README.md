@@ -212,6 +212,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0336-palindrome-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -264,6 +265,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0664-strange-printer) |
@@ -347,6 +349,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
