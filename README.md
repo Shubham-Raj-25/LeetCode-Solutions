@@ -310,6 +310,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1337-design-skiplist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1337-design-skiplist) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -361,6 +362,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
@@ -395,6 +397,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0133-clone-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
+| [0432-all-oone-data-structure](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -599,4 +602,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
