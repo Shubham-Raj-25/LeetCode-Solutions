@@ -1,36 +1,41 @@
 class CustomStack {
 public:
-    vector<int> data;
-    int idx = 0;
-    unordered_map<int,int> inc;
-
+    stack<int> st;
+    int size;
     CustomStack(int maxSize) {
-     vector<int> temp(maxSize,-1);
-     data = temp;  
+        size = maxSize;
     }
     
     void push(int x) {
-        if(idx==data.size())
-            return ;
-        data[idx] = x;
-        idx++;
+        if(st.size() == size)
+            return;
+        st.push(x);     
     }
     
     int pop() {
-        idx--;
-        if(idx<0){
-            idx=0;
-            return -1;}
-        int increment = inc[idx];
-        inc[idx] = 0;
-        inc[idx-1] += increment;
-        return data[idx]+increment;
+        if(st.empty())
+            return -1;
+        int a = st.top();
+        st.pop();
+        return a;
     }
     
     void increment(int k, int val) {
-        k = min(k,idx);
-        inc[k-1] += val;
+    vector<int> temp;
+    while(!st.empty()) {
+        temp.push_back(st.top());
+        st.pop();
     }
+    
+    for (int i = temp.size() - 1; i >= 0 && temp.size() - i <= k; i--) {
+        temp[i] += val;
+    }
+    
+    for (int i = temp.size() - 1; i >= 0; i--) {
+        st.push(temp[i]);
+    }
+}
+
 };
 
 /**
