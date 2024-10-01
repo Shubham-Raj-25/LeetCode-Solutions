@@ -237,6 +237,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -404,6 +405,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -530,6 +532,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
