@@ -1,13 +1,15 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        if(s.length()!=goal.length())
+        if(goal.length() != s.length())
             return false;
+        
         goal += goal;
-
-        size_t found = goal.find(s);
-
-        return found != std::string::npos;
-
+        
+        for(int i=0;i<goal.length()-s.length();i++)
+            if(s == goal.substr(i,s.length()))
+                return true;
+        
+        return false;
     }
 };
