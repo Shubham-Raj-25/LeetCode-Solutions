@@ -245,6 +245,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1511-count-number-of-teams](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -413,6 +414,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -552,6 +554,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -683,6 +686,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -735,6 +739,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
 |  |
 | ------- |
