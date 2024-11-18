@@ -250,6 +250,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1694-make-sum-divisible-by-p](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1755-defuse-the-bomb](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
@@ -671,6 +672,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
