@@ -366,6 +366,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0432-all-oone-data-structure](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1337-design-skiplist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1337-design-skiplist) |
@@ -614,11 +615,13 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -635,6 +638,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
