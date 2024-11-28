@@ -177,6 +177,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -192,6 +193,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
@@ -274,6 +276,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -622,6 +625,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -645,6 +649,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1962-single-threaded-cpu](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
@@ -679,6 +684,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
