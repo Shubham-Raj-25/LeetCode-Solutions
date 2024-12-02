@@ -149,6 +149,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
@@ -170,6 +171,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0127-word-ladder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
@@ -189,6 +191,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
@@ -209,6 +212,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
