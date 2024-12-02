@@ -149,6 +149,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -171,6 +172,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0127-word-ladder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
@@ -220,6 +222,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -231,6 +234,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0079-word-search](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -635,6 +639,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
