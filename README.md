@@ -162,6 +162,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1008-binary-tree-cameras](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -183,6 +184,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -200,6 +202,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -226,6 +229,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Array
