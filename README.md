@@ -159,6 +159,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1008-binary-tree-cameras](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
@@ -183,6 +184,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -203,6 +205,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -232,6 +235,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
+| [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -264,6 +268,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0906-walking-robot-simulation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -523,6 +528,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
