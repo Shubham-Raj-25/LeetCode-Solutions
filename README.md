@@ -236,6 +236,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -269,6 +270,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -451,6 +453,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0650-2-keys-keyboard](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -529,6 +532,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0906-walking-robot-simulation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -816,6 +820,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Number Theory
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
