@@ -501,6 +501,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0432-all-oone-data-structure](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0715-range-module](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
@@ -509,6 +510,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Segment Tree
 |  |
 | ------- |
+| [0715-range-module](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
@@ -530,6 +532,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
