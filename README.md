@@ -508,6 +508,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1337-design-skiplist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1337-design-skiplist) |
+| [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 ## Segment Tree
 |  |
 | ------- |
@@ -537,6 +538,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
+| [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 ## Hash Table
 |  |
@@ -646,6 +648,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
@@ -731,6 +734,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 | [1962-single-threaded-cpu](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -805,6 +809,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 ## Backtracking
 |  |
 | ------- |
