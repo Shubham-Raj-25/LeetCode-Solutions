@@ -1,32 +1,41 @@
 class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        pq.push({0,0});
         int n = points.size();
+        vector<vector<pair<int,int>>> adj(n);
         vector<bool> vis(n,false);
-        int weight = 0;
+        vector<vector<int>> edges;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        int minCost;
 
-        while(n){
-            int wt = pq.top().first;
-            int curr = pq.top().second;
-            pq.pop();
-
-            if(vis[curr]) continue;
-            n--;
-            vis[curr] = true;
-            weight += wt;
-
-            for(int i=0;i<points.size();i++){
-                if(!vis[i]){
-                    int dist = abs(points[curr][1]-points[i][1])+abs(points[curr][0]-points[i][0]);
-                    pq.push({dist,i});
-                    }
-                
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                int dist = abs(points[i][0] - points[j][0]) + abs(points[i][1]-points[j][1]);
+                adj[i].push_back({j,dist});
+                adj[j].push_back({i,dist});
             }
-
         }
 
-        return weight;
+        pq.push({0,0});
+        minCost = 0;
+
+        while(pq.size()){
+            auto [cost,curr] = pq.top();
+            pq.pop();
+            
+            if(vis[curr])
+                continue;
+            
+            vis[curr] = true;
+            minCost += cost;
+
+            for(auto it : adj[curr]){
+                if(!vis[it.first])
+                    pq.push({it.second,it.first});
+            }
+        }
+
+        return minCost;
+
     }
 };
