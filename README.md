@@ -346,6 +346,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -459,6 +460,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2846-robot-collisions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -478,6 +480,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2645-pass-the-pillow](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -753,6 +756,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
