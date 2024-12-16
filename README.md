@@ -213,6 +213,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -244,6 +245,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Array
 |  |
@@ -294,6 +296,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1663-detect-cycles-in-2d-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -913,4 +916,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
