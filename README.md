@@ -262,6 +262,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0312-burst-balloons](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0336-palindrome-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
@@ -491,6 +492,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
