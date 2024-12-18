@@ -250,6 +250,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -490,6 +491,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
