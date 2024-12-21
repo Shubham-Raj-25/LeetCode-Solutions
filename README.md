@@ -257,6 +257,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0040-combination-sum-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0137-single-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -875,6 +876,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
