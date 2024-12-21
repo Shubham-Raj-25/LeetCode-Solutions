@@ -1,31 +1,35 @@
 class Solution {
-    long long dfs(int node, int parent, const vector<vector<int>> &adj, const vector<int>& values, int& res, int k)
-    {
-        long long node_sum = values[node];
-        for (int child : adj[node])
-        {
-            if (child == parent) continue;
-            node_sum += dfs(child, node, adj, values, res, k);
+public:
+    int dfs(int curr, int prev, vector<vector<int>>& adj, vector<int>& values, int k, int& maxComp){
+        
+        int curr_sum = values[curr];
+        
+        for(int nei : adj[curr]){
+            if(nei != prev){
+                curr_sum += dfs(nei,curr,adj,values,k,maxComp) % k;
+            }
         }
         
-        if (node_sum % k == 0)
-        {
-            ++res;
+        if(curr_sum % k == 0){
+            maxComp += 1;
             return 0;
         }
-        return node_sum;
+
+        return curr_sum;
     }
-public:
+
     int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
         vector<vector<int>> adj(n);
-        for (auto& e : edges)
-        {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
+        vector<bool> vis(n,false);
+        for(auto edge : edges){
+            adj[edge[0]].push_back(edge[1]);
+            adj[edge[1]].push_back(edge[0]);
         }
-        
-        int res = 0;
-        dfs(0, -1, adj, values, res, k);
-        return res;
+
+        int maxComp = 0;
+
+        dfs(0,-1,adj,values,k,maxComp);
+
+        return maxComp;
     }
 };
