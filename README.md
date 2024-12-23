@@ -371,6 +371,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0312-burst-balloons) |
+| [0338-counting-bits](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0664-strange-printer) |
@@ -885,6 +886,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
