@@ -479,6 +479,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
@@ -882,6 +883,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
