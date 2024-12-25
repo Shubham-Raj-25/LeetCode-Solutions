@@ -155,6 +155,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -184,6 +185,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -709,6 +711,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -727,6 +730,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
