@@ -271,6 +271,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0336-palindrome-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
+| [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -377,6 +378,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0664-strange-printer) |
@@ -870,6 +872,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0040-combination-sum-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
