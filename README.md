@@ -363,6 +363,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -421,6 +422,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sorting
 |  |
 | ------- |
