@@ -292,6 +292,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
 | [1036-rotting-oranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -387,6 +388,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1008-binary-tree-cameras](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
+| [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
 | [1063-best-sightseeing-pair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -579,6 +581,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
+| [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
 | [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 ## Hash Table
@@ -704,6 +707,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
 | [1197-parsing-a-boolean-expression](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -945,6 +949,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
