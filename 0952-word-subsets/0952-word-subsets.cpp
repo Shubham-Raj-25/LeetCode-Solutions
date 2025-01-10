@@ -1,30 +1,34 @@
 class Solution {
 public:
     vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
-        unordered_map<char,int> w2f;
-
-        for(auto it:words2){
-            unordered_map<char,int> temp;
-            for(auto c:it)
-                temp[c]++;
-            for(auto it:temp)
-                if(it.second>w2f[it.first])
-                    w2f[it.first] = it.second;
-        }
-        
+        unordered_map<char,int> maxFreq, wordCharFreq;
         vector<string> ans;
+        bool isSubset;
 
-        for(auto word: words1){
-            bool check = true;
-            unordered_map<char,int> temp;
-            for(auto c:word)
-                temp[c]++;
-            for(auto it:w2f)
-                if(it.second > temp[it.first]){
-                    check = false;
+        for(string word : words2){
+            for(char c : word){
+                wordCharFreq[c]++;
+                maxFreq[c] = max(maxFreq[c],wordCharFreq[c]);
+            }
+            wordCharFreq.clear();
+        }
+
+        for(string word : words1){
+            isSubset = true;
+            for(char c : word){
+                wordCharFreq[c]++;
+            }
+            for(auto it : maxFreq){
+                wordCharFreq[it.first] -= it.second;
+                if(wordCharFreq[it.first] < 0){
+                    isSubset = false;
                     break;
                 }
-            if(check) ans.push_back(word);
+            }
+            if(isSubset){
+                ans.push_back(word);
+            }
+            wordCharFreq.clear();
         }
 
         return ans;
