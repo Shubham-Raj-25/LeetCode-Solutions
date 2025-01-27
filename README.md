@@ -168,6 +168,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1396-count-servers-that-communicate](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1558-course-schedule-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -201,6 +202,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -228,6 +230,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -250,6 +253,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
