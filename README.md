@@ -156,6 +156,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -191,6 +192,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -223,6 +225,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0133-clone-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
@@ -263,6 +266,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
