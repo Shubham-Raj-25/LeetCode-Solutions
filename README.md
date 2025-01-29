@@ -558,6 +558,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
 ## Binary Search
 |  |
 | ------- |
@@ -1070,4 +1071,5 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
 <!---LeetCode Topics End-->
