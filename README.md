@@ -421,6 +421,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Dynamic Programming
 |  |
@@ -455,6 +456,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
+| [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -623,6 +625,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
