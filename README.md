@@ -685,6 +685,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1502-construct-k-palindrome-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -749,6 +750,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -932,6 +934,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1396-count-servers-that-communicate](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
