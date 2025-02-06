@@ -182,6 +182,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
@@ -522,6 +523,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -843,6 +845,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -859,6 +862,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
