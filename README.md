@@ -419,6 +419,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1051,6 +1052,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2792-neighboring-bitwise-xor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Trie
 |  |
 | ------- |
@@ -1095,6 +1097,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## String Matching
 |  |
 | ------- |
