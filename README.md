@@ -793,6 +793,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Recursion
@@ -995,6 +996,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -1102,6 +1104,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## String Matching
 |  |
