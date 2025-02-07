@@ -414,6 +414,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3427-special-array-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -931,6 +932,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2803-modify-graph-edge-weights](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
