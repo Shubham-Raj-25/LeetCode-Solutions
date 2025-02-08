@@ -798,6 +798,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1031,6 +1032,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1069,6 +1071,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2792-neighboring-bitwise-xor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Trie
 |  |
