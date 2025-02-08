@@ -493,6 +493,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3195-separate-black-and-white-balls](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -799,6 +800,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3451-string-compression-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Recursion
@@ -972,6 +974,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Shortest Path
 |  |
 | ------- |
