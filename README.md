@@ -415,6 +415,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3427-special-array-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1011,6 +1012,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3483-alternating-groups-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
