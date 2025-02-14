@@ -340,6 +340,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1396-count-servers-that-communicate](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
@@ -585,6 +586,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
@@ -637,6 +639,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0732-my-calendar-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1337-design-skiplist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1337-design-skiplist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 | [2434-design-a-number-container-system](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
@@ -658,6 +661,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1038,6 +1042,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 ## Backtracking
 |  |
