@@ -489,6 +489,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1917-maximum-average-pass-ratio](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -798,6 +799,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -855,6 +857,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1057,6 +1060,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
