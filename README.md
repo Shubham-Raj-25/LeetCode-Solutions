@@ -780,6 +780,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1304-longest-happy-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1059,6 +1060,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
