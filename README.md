@@ -446,6 +446,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -514,6 +515,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3528-reach-end-of-array-with-max-score](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Sorting
 |  |
 | ------- |
@@ -642,6 +644,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Design
 |  |
 | ------- |
