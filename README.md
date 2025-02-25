@@ -445,6 +445,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -481,6 +482,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3551-maximum-xor-score-subarray-queries) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Greedy
 |  |
 | ------- |
@@ -954,6 +956,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1154,6 +1157,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Doubly-Linked List
 |  |
 | ------- |
