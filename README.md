@@ -469,6 +469,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1008-binary-tree-cameras](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
 | [1063-best-sightseeing-pair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -799,6 +800,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
