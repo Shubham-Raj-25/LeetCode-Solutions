@@ -777,6 +777,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
 ## String
@@ -857,6 +858,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Recursion
 |  |
@@ -1077,6 +1079,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
