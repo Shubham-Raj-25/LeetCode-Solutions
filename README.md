@@ -445,6 +445,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
@@ -653,6 +654,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3427-special-array-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Design
@@ -702,6 +704,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3427-special-array-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Ordered Set
 |  |
