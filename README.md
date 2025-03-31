@@ -420,6 +420,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -530,6 +531,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2509-minimize-xor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3195-separate-black-and-white-balls](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -565,6 +567,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2681-put-marbles-in-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -1032,6 +1035,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
