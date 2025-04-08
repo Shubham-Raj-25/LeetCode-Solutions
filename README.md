@@ -466,6 +466,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -817,6 +818,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
