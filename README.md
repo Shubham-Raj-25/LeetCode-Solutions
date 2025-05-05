@@ -497,6 +497,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0664-strange-printer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1008-binary-tree-cameras](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
