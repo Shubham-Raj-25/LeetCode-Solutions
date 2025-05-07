@@ -14,7 +14,7 @@ public:
         pq.push({0, 0, 0});
         
         // DP array to store the minimum time to reach each cell
-        vector<vector<long>> dp(rows, vector<long>(cols, 1e10));
+        vector<vector<int>> dp(rows, vector<int>(cols, 1e9));
         dp[0][0] = 0;
         
         // Possible moves in 4 directions
