@@ -268,6 +268,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -472,6 +473,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
@@ -1041,6 +1043,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
 |  |
@@ -1082,6 +1085,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1131,6 +1135,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2803-modify-graph-edge-weights](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
