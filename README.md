@@ -558,6 +558,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3195-separate-black-and-white-balls](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -672,6 +673,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2448-count-number-of-bad-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
