@@ -545,6 +545,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -665,6 +666,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
