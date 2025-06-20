@@ -684,6 +684,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -864,6 +865,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -948,6 +950,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Recursion
 |  |
@@ -1145,6 +1148,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Shortest Path
 |  |
 | ------- |
