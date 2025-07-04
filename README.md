@@ -684,6 +684,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
@@ -965,6 +966,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1197-parsing-a-boolean-expression](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Queue
 |  |
 | ------- |
@@ -1280,6 +1282,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
 |  |
 | ------- |
