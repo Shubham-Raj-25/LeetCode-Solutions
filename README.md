@@ -379,6 +379,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -520,6 +521,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -591,6 +593,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1962-single-threaded-cpu](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2164-two-best-non-overlapping-events](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -707,6 +710,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
