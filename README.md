@@ -636,6 +636,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0432-all-oone-data-structure](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1337-design-skiplist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1337-design-skiplist) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -682,6 +683,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
