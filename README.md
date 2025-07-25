@@ -498,6 +498,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -589,6 +590,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -897,6 +899,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3646-sum-of-good-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
