@@ -413,6 +413,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2280-count-good-triplets-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
