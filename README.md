@@ -342,6 +342,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
@@ -520,6 +521,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1008-binary-tree-cameras](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
 | [1063-best-sightseeing-pair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -1305,6 +1307,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0137-single-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
