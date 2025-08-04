@@ -344,6 +344,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0906-walking-robot-simulation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
@@ -847,6 +848,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -1228,6 +1230,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
