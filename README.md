@@ -505,6 +505,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -763,6 +764,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3643-zero-array-transformation-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
 |  |
 | ------- |
@@ -789,6 +791,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -831,6 +834,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2434-design-a-number-container-system](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
