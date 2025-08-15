@@ -696,6 +696,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0029-divide-two-integers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0342-power-of-four](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -1013,6 +1014,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1323,6 +1325,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0029-divide-two-integers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
