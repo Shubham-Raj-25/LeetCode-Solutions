@@ -526,6 +526,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1008-binary-tree-cameras](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1008-binary-tree-cameras) |
@@ -704,6 +705,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0867-new-21-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
@@ -1241,6 +1243,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0867-new-21-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1441,4 +1444,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
