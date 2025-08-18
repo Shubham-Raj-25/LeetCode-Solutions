@@ -329,6 +329,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0679-24-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -705,6 +706,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0564-find-the-closest-palindrome](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -1291,6 +1293,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0079-word-search](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
