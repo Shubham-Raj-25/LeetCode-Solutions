@@ -423,6 +423,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -721,6 +722,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
