@@ -364,6 +364,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -537,6 +538,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1170-shortest-common-supersequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1120,6 +1122,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1036-rotting-oranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
