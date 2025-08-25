@@ -326,6 +326,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0336-palindrome-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0368-largest-divisible-subset](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -676,6 +677,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -1117,6 +1119,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
