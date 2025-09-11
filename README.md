@@ -655,6 +655,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2846-robot-collisions) |
+| [2887-sort-vowels-in-a-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1009,6 +1010,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
