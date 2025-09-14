@@ -353,6 +353,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1017-odd-even-jump](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1017-odd-even-jump) |
 | [1036-rotting-oranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -881,6 +882,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0964-minimize-malware-spread-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0964-minimize-malware-spread-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1006-vowel-spellchecker](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -965,6 +967,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
