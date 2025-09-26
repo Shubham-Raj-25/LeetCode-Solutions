@@ -315,6 +315,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0075-sort-colors](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -523,6 +524,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0072-edit-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
