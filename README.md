@@ -329,6 +329,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0498-diagonal-traverse](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0679-24-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -577,6 +578,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0770-couples-holding-hands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
@@ -626,6 +628,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0179-largest-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -759,6 +762,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
@@ -1335,6 +1339,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1002-maximum-width-ramp](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
