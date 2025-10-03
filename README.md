@@ -200,6 +200,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0207-course-schedule](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+| [0407-trapping-rain-water-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0690-employee-importance) |
@@ -329,6 +330,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0312-burst-balloons](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0336-palindrome-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0368-largest-divisible-subset](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -1143,6 +1145,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0200-number-of-islands](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -1188,6 +1191,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
