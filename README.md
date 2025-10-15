@@ -508,6 +508,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -797,6 +798,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
