@@ -722,6 +722,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -766,6 +767,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1056,6 +1058,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1425,6 +1428,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2716-prime-subtraction-operation](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1497,6 +1501,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3548-find-the-count-of-good-integers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Function
 |  |
 | ------- |
