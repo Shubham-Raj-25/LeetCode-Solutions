@@ -751,6 +751,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -922,6 +923,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1259,6 +1261,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1351,6 +1354,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2107-find-unique-binary-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
@@ -1464,6 +1468,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
