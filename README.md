@@ -459,6 +459,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -616,6 +617,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2509-minimize-xor](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -797,6 +799,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -860,6 +863,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3427-special-array-ii) |
@@ -1082,6 +1086,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1953-finding-mk-average](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1953-finding-mk-average) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
@@ -1315,6 +1320,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
