@@ -563,6 +563,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1511-count-number-of-teams](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1405,6 +1406,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1454,6 +1456,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
