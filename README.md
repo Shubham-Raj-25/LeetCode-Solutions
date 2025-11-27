@@ -490,6 +490,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -868,6 +869,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2618-maximize-the-minimum-powered-city](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -965,6 +967,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubham-Raj-25/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
